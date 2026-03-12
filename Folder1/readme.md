@@ -124,8 +124,8 @@ Make sure `input.txt` is in the **same folder** as the scripts.
 
 | Part | Answer |
 |------|--------|
-| Part 1 | `...` |
-| Part 2 | `...` |
+| Part 1 | `3273098521` |
+| Part 2 | `55308331382634` |
 
 ---
 
